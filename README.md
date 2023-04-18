@@ -16,3 +16,6 @@ powerful analytics and knowledge base articles to your competitive advantage.
 
 - [GetBlock](https://account.getblock.io/sign-in?ref=OGUzNWE1MDQtODFlYi01ZWE4LTg4N2ItOTE3MTBiZTcyYmMz)
 Superior Node Infrastructure for Building dApps - GetBlock developer tools and valuable insights guarantee a simple and reliable API access to multiple blockchains: Bitcoin, Ethereum, BNB Smart Chain (Binance Smart Chain), etc.
+
+- [Moralis](https://moralis.io)
+Everything you need to build in Web3
