@@ -19,3 +19,35 @@ Superior Node Infrastructure for Building dApps - GetBlock developer tools and v
 
 - [Moralis](https://moralis.io)
 Everything you need to build in Web3
+
+
+
+## Social Media
+
+[Email](mailto:web3idn.crypto@mail3.me)
+
+[Newsletters](https://web3idn.substack.com/)
+
+[Website](https://www.web30.my.id/)
+
+[Medium](https://medium.com/@web3id)
+
+[Github](https://github.com/Web3ID)
+
+[Dev.To](https://dev.to/web3id)
+
+[Facebook](https://web.facebook.com/web3id)
+
+[Group Facebook](https://web.facebook.com/groups/web3id/)
+
+[Twitter](https://twitter.com/Web3IDN)
+
+[Instagram](https://www.instagram.com/web3id/)
+
+[LinkedIn](https://www.linkedin.com/company/web3id/)
+
+[Channel Telegram](https://t.me/Web3IDN)
+
+[Group Telegram](https://t.me/Web3IDN_Chat)
+
+[Quora](https://web3id.quora.com/)
