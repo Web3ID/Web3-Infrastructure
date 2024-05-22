@@ -25,4 +25,7 @@ Everything you need to build in Web3
 Fast and reliable multichain infrastructure
 
 
+- [BlockPi Network](https://blockpi.io)
+Blockpi is Distributed multi-chain acceleration layer
+Solving the RPC requests congestion problem with infinite scalability.
 
