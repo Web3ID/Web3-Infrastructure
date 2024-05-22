@@ -26,6 +26,9 @@ Fast and reliable multichain infrastructure
 
 
 - [BlockPi Network](https://blockpi.io)
-Blockpi is Distributed multi-chain acceleration layer
+Distributed multi-chain acceleration layer
 Solving the RPC requests congestion problem with infinite scalability.
 
+
+- [1RPC](https://1rpc.io) Connect to Web3 with a single RPC endpoint
+Secure your blockchain interactions with zero-tracking and avoid metadata leakage.
