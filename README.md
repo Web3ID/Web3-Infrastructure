@@ -34,3 +34,5 @@ Solving the RPC requests congestion problem with infinite scalability.
 
 - [1RPC](https://1rpc.io) Connect to Web3 with a single RPC endpoint
 Secure your blockchain interactions with zero-tracking and avoid metadata leakage.
+
+- [extrnode](https://extrnode.com) is a battle-tested decentralized RPC gateway powered by Everstake, a responsible validator trusted by 625k users across 70+ blockchain networks.
