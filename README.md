@@ -1,5 +1,5 @@
 # Web3-Infrastructure
-Curated list of Web3 Infrastructure,  Node, RPC, API, Provider and others 
+Curated list of Tooling, Web3 Infrastructure, Node, RPC,API, Provider and others
 
 - [Chainnodes](https://www.chainnodes.org) is a Web3 blockchain JSON RPC provider. Our enterprise grade RPCs help developers and Startups of all sizes power their dApps, Web3 games, Wallets and more.
 
